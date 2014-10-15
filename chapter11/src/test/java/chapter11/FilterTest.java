@@ -14,7 +14,7 @@ import java.util.List;
 import static org.testng.Assert.assertEquals;
 
 @SuppressWarnings("unchecked")
-public class FilterTests {
+public class FilterTest {
     Session session;
     Transaction tx;
     Query query;
